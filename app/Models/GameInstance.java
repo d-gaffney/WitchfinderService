@@ -392,8 +392,6 @@ public class GameInstance {
                 calculateRoundEnd();
                 Logger.debug("calc round end triggered by waitingPoll");
             }
-
-
         }
     }
 

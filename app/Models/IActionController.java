@@ -6,7 +6,6 @@ import java.util.List;
  * Created by Davin on 27/05/2016.
  */
 public interface IActionController {
-
     //
     PlayerAction randomPlayerAction(int roundNo);
     PlayerAction waitingAction();
